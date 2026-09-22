@@ -13,7 +13,7 @@ REST API untuk manajemen produk dan autentikasi — dibangun dengan Laravel, MyS
 ## Menjalankan dengan Docker
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/akbarardi/product_management_api_bts.git
 cd product_management_api_bts
 
 cp .env.example .env
